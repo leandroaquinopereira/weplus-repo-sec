@@ -3,7 +3,6 @@
 [![Made with NUnit](https://img.shields.io/static/v1?label=NUnit&message=v%203.12&color=<COLOR>&style=flat&logo=N-Unit)](https://nunit.org/)
 [![License](https://img.shields.io/apm/l/vim-mode?color=blue)](http://badges.mit-license.org)
 
------
 
 <h1 align="center">We Plus Game</h1>
 <p align="center">Jogo desenvolvido como projeto final da disciplina de Engenharia de Software.</p>
@@ -19,6 +18,7 @@
 
 
 -----
+
 
 <p align="left">Projeto desenvolvido na linguagem C#, na IDE Visual Studio utilizando os conceitos de POO e Engenharia de Software. O objetivo do jogo é de forma lúdica reforçar os conhecimentos adquiridos pelos alunos em sala de aula.</p>
 
