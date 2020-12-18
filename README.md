@@ -15,7 +15,7 @@
 
 ## 🎯 Funcionalidades
 A aplicação conta com as seguintes funcionalidades implementadas:
-- [X] Opções jogador:
+- [X] Cadastro jogador:
   - Criar;
   - Editar; 
   - Deletar.
@@ -28,6 +28,9 @@ A aplicação conta com as seguintes funcionalidades implementadas:
   - Questionnaire;
   - Shop;
   - Profile.
+  
+- [X] Diferentes fases.
+  
   
 
 ## ⚒️ Ferramentas 
