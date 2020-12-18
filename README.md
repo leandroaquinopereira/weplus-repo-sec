@@ -14,14 +14,20 @@
 <p align="left">Projeto desenvolvido na linguagem C#, na IDE Visual Studio utilizando os conceitos de POO e Engenharia de Software. O objetivo do jogo é de forma lúdica reforçar os conhecimentos adquiridos pelos alunos em sala de aula.</p>
 
 ## 🎯 Funcionalidades
-A aplicação conta com algumas funcionalidades já implementadas:
-- [X] CRUD jogador.
-  - create
-  - edit 
-  - delete
-- [X] 7 Cenas
-  -kdsjifdsdaf
+A aplicação conta com as seguintes funcionalidades implementadas:
+- [X] Opções jogador:
+  - Criar;
+  - Editar; 
+  - Deletar.
   
+- [X] 7 Cenas:
+  - Menu;
+  - Introduction;
+  - Arena;
+  - Duel;
+  - Questionnaire;
+  - Shop;
+  - Profile.
   
 
 ## ⚒️ Ferramentas 
