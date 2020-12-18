@@ -15,9 +15,14 @@
 
 ## 🎯 Funcionalidades
 A aplicação conta com algumas funcionalidades já implementadas:
-- [X] Cadastro de Jogador.
-- [X] Fases.
-- [X] Pontuação.
+- [X] CRUD jogador.
+  - create
+  - edit 
+  - delete
+- [X] 7 Cenas
+  -kdsjifdsdaf
+  
+  
 
 ## ⚒️ Ferramentas 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -35,7 +40,7 @@ As seguintes bibliotecas foram usadas na construção do projeto:
 ## ▶️ Running
 
 ### Requisitos
- - Unity (Versão ??)
+ - Unity (Versão 2019.4.16f1)
  
  ### Clone
 - Clone este repositório na sua máquina local
