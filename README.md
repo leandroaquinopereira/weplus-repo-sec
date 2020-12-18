@@ -1,11 +1,17 @@
-<h1 align="center">My Resume </h1>
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+[![Made with VS](https://img.shields.io/static/v1?label=Visual%20Studio&message=Visual%20Studio&color=<COLOR>&style=flat&logo=Visual-Studio-Code)](https://visualstudio.microsoft.com/pt-br/vs/)
+
+-----
+
+<h1 align="center">We Plus Game</h1>
 <p align="center">Jogo desenvolvido como projeto final da disciplina de Engenharia de Software.</p>
 
 -----
 
+
 <h3 align="center"> 
   <img src="https://github.com/leandroaquinopereira/C214-Trab/blob/master/CabecalhoIMG.svg" >
-  :white_check_mark:  My resume: Concluído  :white_check_mark:
+  :white_check_mark:  Status: Concluído  :white_check_mark:
 </h3>
 
 
