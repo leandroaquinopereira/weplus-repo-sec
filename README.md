@@ -37,8 +37,6 @@ A aplicação conta com as seguintes funcionalidades implementadas:
   - Shop;
   - Profile.
   
-- [X] Diferentes fases.
-  
   
 
 ## ⚒️ Ferramentas 
