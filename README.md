@@ -4,7 +4,7 @@
 -----
 
 <h3 align="center"> 
-  <img src="https://github.com/jpgSouza/nameRepo/blob/master/Name.svg" >
+  <img src="https://github.com/leandroaquinopereira/C214-Trab/blob/master/TestIMG.svg" >
   :white_check_mark:  My resume: Concluído  :white_check_mark:
 </h3>
 
