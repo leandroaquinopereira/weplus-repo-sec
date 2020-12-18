@@ -13,7 +13,7 @@
 
 <h3 align="center"> 
   <img src="https://github.com/leandroaquinopereira/C214-Trab/blob/master/CabecalhoIMG.svg" >
-  :white_check_mark:  Status: Concluído  :white_check_mark:
+   Status: Concluído  :white_check_mark:
 </h3>
 
 
