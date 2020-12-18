@@ -4,7 +4,7 @@
 -----
 
 <h3 align="center"> 
-  <img src="https://github.com/leandroaquinopereira/C214-Trab/blob/master/TestIMG.svg" >
+  <img src="https://github.com/leandroaquinopereira/C214-Trab/blob/master/CabecalhoIMG.svg" >
   :white_check_mark:  My resume: Concluído  :white_check_mark:
 </h3>
 
@@ -34,8 +34,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📚 Bibliotecas
 As seguintes bibliotecas foram usadas na construção do projeto:
-- [Google](https://google.com)
-
+- [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)
+- [Dotween](http://dotween.demigiant.com/)
 
 ## ▶️ Running
 
