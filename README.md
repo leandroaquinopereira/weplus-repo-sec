@@ -38,6 +38,12 @@ A aplicação conta com as seguintes funcionalidades implementadas:
   - Shop;
   - Profile.
   
+  <h3 align="center"> 
+  <img src="https://github.com/leandroaquinopereira/weplus-repo-sec/blob/master/cenas.gif" width="200">;
+  </h3>
+  
+  
+  
   
 
 ## ⚒️ Ferramentas 
