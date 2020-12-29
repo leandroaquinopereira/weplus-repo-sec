@@ -40,6 +40,7 @@ A aplicação conta com as seguintes funcionalidades implementadas:
   
   
 ## 🎮 Demonstração
+Abaixo consta um pequeno GIF demonstrativo do jogo:
 
   <h3 align="center"> 
   <img src="https://github.com/leandroaquinopereira/weplus-repo-sec/blob/master/cenas.gif" width="200">
